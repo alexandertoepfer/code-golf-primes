@@ -9,7 +9,6 @@
  * Töpfer 2020
  * Inspired by Paper "A Prime-Representing Constant"
  */
-#include <boost/math/special_functions/pow.hpp>
 #include <boost/multiprecision/cpp_dec_float.hpp>
 #include <boost/multiprecision/cpp_int.hpp>
 #define f( x ) cpp_dec_float_100( cpp_int( x ) )
